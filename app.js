@@ -14,4 +14,4 @@ console.log(slides)
         slides[currentSlide].classList.add("active");
       });
 
-    
+    // commento
